@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbbcc34c.css",
+    "main.js": "/static/js/main.6be70ff2.js",
+    "static/media/hero-img.png": "/static/media/hero-img.bc2cc512f513aaa9f0bf.png",
+    "static/media/feature-2-img.png": "/static/media/feature-2-img.cf233659a120d86cd676.png",
+    "static/media/feature-3-img.png": "/static/media/feature-3-img.5df40cff033a1a81e9d1.png",
+    "static/media/why-img.png": "/static/media/why-img.83f7e1610dd390441337.png",
+    "static/media/feature-1-img.png": "/static/media/feature-1-img.3ebec6b2c18fd2e8cb8f.png",
+    "static/media/hero-bg.png": "/static/media/hero-bg.2ef7ab32934e7cab966a.png",
+    "static/media/why-model-1.png": "/static/media/why-model-1.985a4ca9a947eb249027.png",
+    "static/media/why-ribbon.png": "/static/media/why-ribbon.271690b6291987ba2cbd.png",
+    "static/media/logo.svg": "/static/media/logo.e44a93b92960b7a7a870e08a3080d60e.svg",
+    "static/media/world.svg": "/static/media/world.ad98cabf9dea7779f6401feee93583ec.svg",
+    "static/media/is.svg": "/static/media/is.1809c770cff747d5b39acd25c4fdd0c8.svg",
+    "static/media/btc.svg": "/static/media/btc.18e1471ad24f99378e5940af938a4cfc.svg",
+    "static/media/in.svg": "/static/media/in.f246279f58b67bb05e524ace6172b20a.svg",
+    "static/media/30.svg": "/static/media/30.b56bf5bc1c6b17f6df41343c48f2b236.svg",
+    "static/media/visa.svg": "/static/media/visa.e19d6e7a7c9a09353750629bd11b9daf.svg",
+    "static/media/ltc.svg": "/static/media/ltc.ed6ebecf231d603aab2b67d477d22619.svg",
+    "static/media/tw.svg": "/static/media/tw.6b3c178f26a209f13bcced7e816ba143.svg",
+    "static/media/arrow.svg": "/static/media/arrow.6d71259c0b9249257fae6ce040f89629.svg",
+    "static/media/trust.svg": "/static/media/trust.66d07af0e76e9dbc2ec66deea28daea6.svg",
+    "static/media/yt.svg": "/static/media/yt.6d0325b5aff883f91bc5e1c71874f177.svg",
+    "index.html": "/index.html",
+    "static/media/eth.svg": "/static/media/eth.083ccadc70d4783dfdbfcce797a6602a.svg",
+    "static/media/fb.svg": "/static/media/fb.1524d879229787f8a3b374caf55c1566.svg",
+    "main.cbbcc34c.css.map": "/static/css/main.cbbcc34c.css.map",
+    "main.6be70ff2.js.map": "/static/js/main.6be70ff2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbbcc34c.css",
+    "static/js/main.6be70ff2.js"
+  ]
+}
